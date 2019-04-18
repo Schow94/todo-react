@@ -1,0 +1,30 @@
+.item {
+  padding: 20px;
+  text-align: left;
+}
+
+.true {
+  text-decoration: line-through;
+}
+
+.buttons {
+  position: absolute;
+  right: 15%;
+}
+
+.btn-floating {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.true {
+  text-decoration: line-through;
+}
+
+.block {
+  font-size: 20px;
+}
+
+ul {
+  background-color: #d6e4f9;
+}
